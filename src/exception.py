@@ -1,5 +1,5 @@
 import sys # provides various functions and variables that are used to manipulate different parts of the Python runtime environment.
-
+from src.logger import logging
 
 # When there is a error this function gets called
 
